@@ -1,2 +1,2 @@
 # First-Project
-Firs 42-Cursus project
+First 42-Cursus project
